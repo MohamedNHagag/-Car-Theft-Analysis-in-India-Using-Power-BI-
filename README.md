@@ -41,7 +41,7 @@ The goal is to **identify patterns, trends, and factors influencing car theft** 
 ---
 
 ## 📷 Dashboard Preview:
-*(Insert screenshot: `![Car Theft Dashboard](images/car-theft-dashboard.png)`)*
+*![Car Theft Dashboard](images/1739531632326.jpg)*
 
 ---
 
